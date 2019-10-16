@@ -1,5 +1,5 @@
 Le licenze  [Creative Commons](https://creativecommons.org) sono nate ormai quasi venti anni fa per permettere agli autori di condividere i propri lavori.  In questo articolo riportiamo la traduzione italiana di una mail che l'ideatore di creative commons _Lawrence Lessig_ inviò per chiedere supporto. In questo testo Lessig spiega in maniera esaustiva il sistema di licenze e lo spirito dell'iniziativa.
-
+I sorgenti di questa traduzione sono anch'essi rilasciati con licenza _Creative Commons Attribuzione (4.0)_ e sono disponibili sul [repository git lessig_it](https://github.com/opendatahacklab/lessig_it).
 ## CC in Review: Lawrence Lessig on Supporting the Commons
 
  [Lawrence Lessig](https://creativecommons.org/author/lessig/) 
